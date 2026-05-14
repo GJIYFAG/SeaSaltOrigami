@@ -1,0 +1,18 @@
+# ninja log v6
+8	157	1778637202073649092	.qt/qml_imports/SeaSaltOrigami_build.cmake	64f260359d489bc2
+8	157	1778637202073649092	/root/下载/SeaSaltOrigami_refit/build/C_C_2026_05_13-Debug/.qt/qml_imports/SeaSaltOrigami_build.cmake	64f260359d489bc2
+157	837	1778637202730133352	SeaSaltOrigami_autogen/timestamp	37eee7e7291db0ea
+157	837	1778637202730133352	SeaSaltOrigami_autogen/mocs_compilation.cpp	37eee7e7291db0ea
+157	837	1778637202730133352	/root/下载/SeaSaltOrigami_refit/build/C_C_2026_05_13-Debug/SeaSaltOrigami_autogen/timestamp	37eee7e7291db0ea
+157	837	1778637202730133352	/root/下载/SeaSaltOrigami_refit/build/C_C_2026_05_13-Debug/SeaSaltOrigami_autogen/mocs_compilation.cpp	37eee7e7291db0ea
+844	893	1778637202811133506	.qt/rcc/qrc_app_qml.cpp	7d58d9b68ba08da9
+844	893	1778637202811133506	/root/下载/SeaSaltOrigami_refit/build/C_C_2026_05_13-Debug/.qt/rcc/qrc_app_qml.cpp	7d58d9b68ba08da9
+897	967	1778637202816901475	CMakeFiles/SeaSaltOrigami.dir/build/C_C_2026_05_13-Debug/.qt/rcc/qrc_app_qml.cpp.o	a1ab26e5594dd8c5
+895	1756	1778637202815135059	CMakeFiles/SeaSaltOrigami.dir/Card.cpp.o	5bd0410f13de8841
+896	3332	1778637202816053744	CMakeFiles/SeaSaltOrigami.dir/Player.cpp.o	eab9669ca88a9021
+896	3869	1778637202815608007	CMakeFiles/SeaSaltOrigami.dir/CardPile.cpp.o	6a3f16b8a5b8009f
+897	5327	1778637202816133515	CMakeFiles/SeaSaltOrigami.dir/GameRule.cpp.o	813cb37ff14933b8
+894	5922	1778637202813133510	CMakeFiles/SeaSaltOrigami.dir/SeaSaltOrigami_autogen/mocs_compilation.cpp.o	d91fb8430c462cbd
+894	6310	1778637202814115736	CMakeFiles/SeaSaltOrigami.dir/main.cpp.o	795ce3d7c573fbc1
+895	7449	1778637202814133511	CMakeFiles/SeaSaltOrigami.dir/SeaSaltGameController.cpp.o	6c50b23c1ee8c5c6
+7449	7972	1778637209368145226	SeaSaltOrigami	3df55d146d65773a

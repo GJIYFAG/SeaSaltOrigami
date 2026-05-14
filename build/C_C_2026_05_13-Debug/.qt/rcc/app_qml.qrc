@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/Main.qml">/root/下载/SeaSaltOrigami_refit/qml/Main.qml</file>
+    <file alias="qml/Theme.qml">/root/下载/SeaSaltOrigami_refit/qml/Theme.qml</file>
+    <file alias="qml/GameCard.qml">/root/下载/SeaSaltOrigami_refit/qml/GameCard.qml</file>
+    <file alias="qml/GameTextButton.qml">/root/下载/SeaSaltOrigami_refit/qml/GameTextButton.qml</file>
+    <file alias="qml/PileSpot.qml">/root/下载/SeaSaltOrigami_refit/qml/PileSpot.qml</file>
+    <file alias="qml/PileStrip.qml">/root/下载/SeaSaltOrigami_refit/qml/PileStrip.qml</file>
+    <file alias="qml/PlayedPairStrip.qml">/root/下载/SeaSaltOrigami_refit/qml/PlayedPairStrip.qml</file>
+    <file alias="qml/GameHeader.qml">/root/下载/SeaSaltOrigami_refit/qml/GameHeader.qml</file>
+    <file alias="qml/GameActionBar.qml">/root/下载/SeaSaltOrigami_refit/qml/GameActionBar.qml</file>
+    <file alias="qml/HandStrip.qml">/root/下载/SeaSaltOrigami_refit/qml/HandStrip.qml</file>
+    <file alias="qml/BuffStrip.qml">/root/下载/SeaSaltOrigami_refit/qml/BuffStrip.qml</file>
+    <file alias="qml/CollectStrip.qml">/root/下载/SeaSaltOrigami_refit/qml/CollectStrip.qml</file>
+    <file alias="qml/MainMenu.qml">/root/下载/SeaSaltOrigami_refit/qml/MainMenu.qml</file>
+    <file alias="qml/MenuPrimaryButton.qml">/root/下载/SeaSaltOrigami_refit/qml/MenuPrimaryButton.qml</file>
+    <file alias="qml/SettingsScreen.qml">/root/下载/SeaSaltOrigami_refit/qml/SettingsScreen.qml</file>
+    <file alias="qml/TutorialScreen.qml">/root/下载/SeaSaltOrigami_refit/qml/TutorialScreen.qml</file>
+    <file alias="qml/GamePlay.qml">/root/下载/SeaSaltOrigami_refit/qml/GamePlay.qml</file>
+  </qresource>
+</RCC>
+

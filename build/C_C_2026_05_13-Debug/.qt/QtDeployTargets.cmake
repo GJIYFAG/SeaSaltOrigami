@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_SeaSaltOrigami_FILE /root/下载/SeaSaltOrigami_refit/build/C_C_2026_05_13-Debug/SeaSaltOrigami)
+set(__QT_DEPLOY_TARGET_SeaSaltOrigami_TYPE EXECUTABLE)

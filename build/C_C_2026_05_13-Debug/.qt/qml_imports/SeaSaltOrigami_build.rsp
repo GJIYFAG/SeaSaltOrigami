@@ -1,0 +1,11 @@
+-rootPath
+/root/下载/SeaSaltOrigami_refit
+-cmake-output
+-output-file
+/root/下载/SeaSaltOrigami_refit/build/C_C_2026_05_13-Debug/.qt/qml_imports/SeaSaltOrigami_build.cmake
+-importPath
+/root/下载/SeaSaltOrigami_refit/build/C_C_2026_05_13-Debug
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/root/下载/SeaSaltOrigami_refit/build/C_C_2026_05_13-Debug/.qt/rcc/app_qml.qrc
